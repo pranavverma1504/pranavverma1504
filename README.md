@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a MERN + Next.js Developer<br>Building creative and scalable web solutions<br>Currently working on Typescript<br><br>being a developer that I want to be bit by bit
+developing scalable and creative web solution
 
 
 ## 🌐 Socials:
